@@ -1,4 +1,4 @@
-# QuanLyKho
+# Quản Lý Kho - Warehouse Management System
 Hệ thống quản lý kho hàng thông minh, tiện lợi, dễ dàng sử dụng!
 ----------------------
 HỆ THỐNG QUẢN LÝ KHO HÀNG - WAREHOUSE MANAGEMENT
