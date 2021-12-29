@@ -6,7 +6,6 @@ NHÓM 9 - 19CN2
 
 ----------------------
 Ngôn ngữ lập trình: PHP, HTML, Hệ quản trị cơ sở dữ liệu My SQL
-Source Code: https://github.com/toanzoz/nhom9-quanlykho
 Địa chỉ truy cập: https://quanlykho.ga. Tài khoản: admin/123456 hoặc đăng ký tài khoản mới.
 
 --------------------- 
